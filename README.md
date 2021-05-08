@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**AbdelrahmanDeghedy/AbdelrahmanDeghedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 👋 Hi! I'm Abdelrahman
 
 💎 I'm a second-year student at the Communication department. I study in the Faculty of Engineering-Alexandria University.
@@ -25,3 +20,6 @@
 
 
 📫 How to reach me: abdelrahman.deghedy@gmail.com
+<!--
+**AbdelrahmanDeghedy/AbdelrahmanDeghedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
