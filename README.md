@@ -5,11 +5,21 @@
 
 💎 You can visit [my website](https://abdelrahman-deghedy.vercel.app/) to find more about me
 
-#### ⚡ What I Do
+#### ⚡ Who Am I?
 
 - I'm a Frontend developer. I use MERN stack.
 - I write blog posts.
-- I'm always learning.
+- I'm a continuous learner.
+
+#### ✨ My Latest Blog Projects:
+
+- [Personal-Website](https://github.com/AbdelrahmanDeghedy/Personal-Website)
+
+- [Would-You-Rather](https://github.com/AbdelrahmanDeghedy/Would-You-Rather)
+
+- [2048-Game](https://github.com/AbdelrahmanDeghedy/2048-Game)
+
+- [My-Reads-React](https://github.com/AbdelrahmanDeghedy/My-Reads-React)
 
 #### 💡 My Latest Blog Posts:
 
@@ -20,7 +30,9 @@
 - [Centering Elements in CSS3](https://dev.to/abdelrahmandeghedy/centering-elements-in-css3-52cf)
 
 
-📫 How to reach me: abdelrahman.deghedy@gmail.com
+#### 📫 How to reach me: 
+
+abdelrahman.deghedy@gmail.com
 <!--
 **AbdelrahmanDeghedy/AbdelrahmanDeghedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
