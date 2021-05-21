@@ -11,7 +11,7 @@
 - I write blog posts.
 - I'm a continuous learner.
 
-#### ✨ My Latest Blog Projects:
+#### ✨ My Latest Projects:
 
 - [Personal-Website](https://github.com/AbdelrahmanDeghedy/Personal-Website)
 
