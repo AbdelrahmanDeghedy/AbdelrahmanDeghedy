@@ -13,6 +13,8 @@
 
 #### ✨ My Latest Projects:
 
+- [Forkify](https://github.com/AbdelrahmanDeghedy/Forkify)
+
 - [Personal-Website](https://github.com/AbdelrahmanDeghedy/Personal-Website)
 
 - [Would-You-Rather](https://github.com/AbdelrahmanDeghedy/Would-You-Rather)
