@@ -7,7 +7,7 @@
 
 #### ⚡ Who Am I?
 
-- I'm a Frontend developer. I use MERN stack.
+- I'm a Sofyware Engineer. I use MERN stack.
 - I write blog posts.
 - I'm a continuous learner.
 
