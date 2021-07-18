@@ -13,6 +13,8 @@
 
 #### ✨ My Latest Projects:
 
+- [Personal Blog](https://github.com/AbdelrahmanDeghedy/Personal-Blog)
+
 - [Natours API](https://github.com/AbdelrahmanDeghedy/Natours-API)
 
 - [Forkify](https://github.com/AbdelrahmanDeghedy/Forkify)
