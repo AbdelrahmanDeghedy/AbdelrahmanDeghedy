@@ -1,7 +1,7 @@
 ### 👋 Hi! I'm Abdelrahman
 
 
-- Third-Year _Electrical Engineering_ Student @```Alexandria University```. Passionate About _People_, _Math_, and _Software Engineering_.
+- Senior-Year _Electrical Engineering_ Student @```Alexandria University```. Passionate About _People_, _Math_, and _Software Engineering_.
 
 - You can visit [my website](https://abdelrahman-deghedy.vercel.app/) to find out more about me
 
